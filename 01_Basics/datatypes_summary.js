@@ -23,3 +23,8 @@ const myObj={
 let myFunction=function(){
     console.log("Hello World")
 }
+
+
+//stack is used in primitive
+//heap is used in non-primitive
+
