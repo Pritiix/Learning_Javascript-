@@ -18,5 +18,9 @@ function sum(n1,n2){
     return result;
 }
 const result=sum(3,4)
-console.log("Result is:",result)
+// console.log("Result is:",result)
 
+function cartprice(...num){
+    return num
+}
+console.log(cartprice(25,56,5,4,3322,3433))
